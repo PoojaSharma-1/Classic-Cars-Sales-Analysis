@@ -32,3 +32,4 @@ This Power BI sales dashboard comprehensively overviews a business's sales perfo
 This sales dashboard offers a clear and concise visualization of the sales data, enabling our stakeholders to understand the business's performance metrics effectively. It highlights key insights and trends that can drive strategic decision-making and improve overall business outcomes.
 
 
+

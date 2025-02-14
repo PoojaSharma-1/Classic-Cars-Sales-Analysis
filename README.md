@@ -1,5 +1,6 @@
 # Power BI Sales Dashboard
 
+![image alt](https://github.com/PoojaSharma-1/Power-BI-Project/blob/e0b28401ab5eeee9fa1e1880478980907cb57439/sales_Img.png)
 ## Project Overview
 This Power BI sales dashboard provides a detailed analysis of business sales performance. The key metrics and visualizations help stakeholders quickly understand sales trends, customer behavior, and product performance to make data-driven decisions.
 
@@ -67,4 +68,3 @@ This Power BI sales dashboard provides actionable insights into sales performanc
 
 
 
-![image alt](https://github.com/PoojaSharma-1/Power-BI-Project/blob/e0b28401ab5eeee9fa1e1880478980907cb57439/sales_Img.png)

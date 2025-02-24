@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard
+# Classic cars Sales Dashboard
 
 ![image alt](https://github.com/PoojaSharma-1/Power-BI-Project/blob/e0b28401ab5eeee9fa1e1880478980907cb57439/sales_Img.png)
 ## Project Overview

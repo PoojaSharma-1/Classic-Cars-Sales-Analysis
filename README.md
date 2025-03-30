@@ -59,10 +59,10 @@ This Power BI sales dashboard provides actionable insights into sales performanc
 
 ## Technologies Used
 - **Power BI** for data visualization
-- **SQL** for data processing and transformation
+- **Power Query** for data processing and transformation
 - **Excel/CSV** for data storage and management
 
-📌 *If you find this project useful, don't forget to ⭐ star the repository!* 🚀
+📌 *If you find this helpful project, don't forget to ⭐ star the repository!* 🚀
 
 
 
